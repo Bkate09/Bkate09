@@ -1,6 +1,14 @@
 ## Hi there 👋
+#BhaktiKate 
+##| Business Analyst | Product Manager | Data-Driven Innovator
+###I thrive at the intersection of strategy, technology, and analytics—turning data into insights and ideas into action. With experience in product management, business analytics, and technical documentation, I craft seamless user experiences, drive engagement, and optimize business operations. Passionate about solving complex problems and delivering impactful solutions.
 
-<!--
+####Let’s connect and create something great!
+####what I do nowadays
+![justtp](https://github.com/Bkate09/justmyprofile/WhatsApp Image 2025-02-18 at 6.12.01 PM.jpeg)
+
+
+
 **Bkate09/Bkate09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +21,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
