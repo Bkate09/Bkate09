@@ -5,7 +5,7 @@
 
 #### Let’s connect and create something great!
 #### what I do nowadays
-![justtp](https://github.com/Bkate09/bkate09/blob/main/WhatsApp Image 2025-02-18 at 6.12.01 PM.jpeg)
+![justtp](https://github.com/Bkate09/bkate09/blob/main/image1.jpeg)
 
 
 
