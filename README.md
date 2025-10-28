@@ -1,6 +1,6 @@
 # 💫 About Me:
 ## BhaktiKate<br>
-Business Analyst | Product Manager | Data-Driven Innovator<br>I thrive at the intersection of strategy, technology, and analytics—turning data into insights and ideas into action. With experience in product management, business analytics, and technical documentation, I craft seamless user experiences, drive engagement, and optimize business operations. Passionate about solving complex problems and delivering impactful solutions.<br>Let’s connect and create something great!
+Hie, nice to e-meet you! I’m an ENFJ who loves people and patterns, and product data is where the two meet. So I build small tools and honest experiments that cut the noise, show what’s working, and point to what we should try next.<br>if something sparks a thought, say hi and let’s swap ideas...!
 
 
 ## 🌐 Socials:
